@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hyunsuk</h1>
-<h3 align="center">A passionate mechatronics engineer who want to make a better world.</h3>
+<h1 align="left">Hi 👋, I'm Hyunsuk</h1>
+<h3 align="left">A passionate mechatronics engineer who want to make a better world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyun5&label=Profile%20views&color=0e75b6&style=flat" alt="hyun5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyun5" alt="hyun5" /></a> </p>
-
-- 🔭 I’m currently working on [Unity Game]((in review))
+- 🔭 I’m currently working on **Unity Game**
 
 - 🌱 I’m currently learning **Python Flask**
 
@@ -32,7 +28,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hsoh70N"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hsoh70N" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyun5&show_icons=true&locale=en&layout=compact" alt="hyun5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyun5&show_icons=true&locale=en" alt="hyun5" /></p>
